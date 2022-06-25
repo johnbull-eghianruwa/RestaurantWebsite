@@ -1,0 +1,1 @@
+// This Comment symbol works only in JavaScript
